@@ -18,7 +18,7 @@ body {
 .pomodoro {
   height: 70px;
   display: flex;
-  background: #f1f1ef;
+  background: #faf3db;
   justify-content: center;
   box-shadow: 1px 1px 1px #888888;
 }
@@ -37,7 +37,7 @@ body {
 }
 
 .pomodoro button:active {
-  background: #cfcfcc; 
+  background: #f5f5dc; 
   box-shadow: 0 0 0 transparent;
 }
 
@@ -62,7 +62,7 @@ body {
 
 .start-pause button {
   border: none;
-  background: #cfcfcc;
+  background: #faf3db;
   font-family: VT323;
   font-weight: bold;
   margin: 15px;
@@ -72,7 +72,7 @@ body {
 }
 
 .start-pause button:active {
-   background: #cfcfcc; 
+   background: #faf3db; 
   box-shadow: 0 0 0 transparent;
 }
 
